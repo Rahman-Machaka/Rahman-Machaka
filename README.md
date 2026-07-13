@@ -2,7 +2,7 @@
 Software Developer | Vue.js & TypeScript, JavaScript, REST APIs, Node.js, Web and more... | Remote
 
 ## 🌐 Socials:
-E-Mail: rahman.machaka@gmail.com
+E-Mail: rahman.machaka@gmail.com  
 Discord: @mister__rahman
 
 # 💻 Tech Stack:
